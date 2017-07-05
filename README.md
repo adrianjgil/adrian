@@ -1,6 +1,6 @@
-
-<html><titles> bears | clothing brand </titles>
-
+<title> BEAR.CO | clothing
+</title>
+<html>
 <head>
 <h1> BEAR.CO </h1>
 </head>
