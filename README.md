@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <title> bears | clothing brand </title>
