@@ -1,7 +1,5 @@
 
-<html>
-
-<title> bears | clothing brand </title>
+<html><titles> bears | clothing brand </titles>
 
 <head>
 <h1> BEAR.CO </h1>
